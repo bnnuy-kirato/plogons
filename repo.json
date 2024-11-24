@@ -14,9 +14,9 @@
         "LoadPriority": 0,
         "Punchline": "Automatically shows where treasure maps are located.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Globetrotter.zip",
-        "DownloadLinkTesting": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Globetrotter.zip",
-        "DownloadLinkUpdate": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Globetrotter.zip",
+        "DownloadLinkInstall": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Weltenbummlerin.zip",
+        "DownloadLinkTesting": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Weltenbummlerin.zip",
+        "DownloadLinkUpdate": "https://github.com/bnnuy-kirato/Weltenbummlerin/releases/download/1.2.12/Weltenbummlerin.zip",
         "IconUrl": "https://raw.githubusercontent.com/bnnuy-kirato/Weltenbummlerin/refs/heads/main/icon.png"
     }
 ]
