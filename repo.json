@@ -1,0 +1,20 @@
+{
+  "Author": "Anna | Maintained Kirato",
+  "Name": "Globetrotter",
+  "InternalName": "Globetrotter",
+  "AssemblyVersion": "1.2.12",
+  "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/bnnuy-kirato/Globetrotter",
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Automatically shows where treasure maps are located.",
+  "AcceptsFeedback": true
+  "DownloadLinkInstall": "https://github.com/bnnuy-kirato/Globetrotter/releases/download/1.2.12/Globetrotter.zip",
+  "DownloadLinkTesting": "https://github.com/bnnuy-kirato/Globetrotter/releases/download/1.2.12/Globetrotter.zip",
+  "DownloadLinkUpdate": "https://github.com/bnnuy-kirato/Globetrotter/releases/download/1.2.12/Globetrotter.zip",
+  "IconUrl": "https://raw.githubusercontent.com/bnnuy-kirato/Globetrotter/refs/heads/main/icon.png"
+}
