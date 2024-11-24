@@ -1,9 +1,9 @@
 {
-  "Author": "Anna | Maintained Kirato",
+  "Author": "Anna - Maintained Kirato",
   "Name": "Globetrotter",
   "InternalName": "Globetrotter",
   "AssemblyVersion": "1.2.12",
-  "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
+  "Description": "Automatically shows where treasure maps are located.\n\nCheck out Anna: https://git.anna.lgbt/anna/Globetrotter\nIcon: Map by Adrien Coquet from the Noun Project",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/bnnuy-kirato/Globetrotter",
   "DalamudApiLevel": 11,
